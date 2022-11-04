@@ -1,0 +1,49 @@
+body {
+    background-image: url(assets/eco-friendly-bamboo-cutlery-set_87742-11853.jpg);
+    background-position: right;
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+a {
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.a2 {
+    border: 3px solid rgb(88, 190, 134);
+    margin: 70px;
+    padding: 20px;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 50px !important;
+}
+
+.link {
+    height: 60px;
+}
+
+.imagenes {
+    display: flex;
+    flex-direction: column;
+}
+
+.img1 {
+    width: 300px;
+}
+
+.img2 {
+    height: 50px;
+}
+
+.flex {
+    display: flex;
+    gap: 40px;
+}
